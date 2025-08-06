@@ -30,11 +30,12 @@ This desktop application displays the current time in real-time using a **bold, 
    git clone https://github.com/fabi786/digital-clock.py
    
 2. Move into the project folder:
- ```bash
-cd digital-clock.py
+
+   ```bash
+   cd digital-clock.py
 
 3. Run the script:
- ```bash
-python digital-clock.py
+   ```bash
+   python digital-clock.py
 
 
